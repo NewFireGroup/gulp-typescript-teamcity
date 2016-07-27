@@ -1,0 +1,32 @@
+{
+  "name": "gulp-typescript-teamcity",
+  "version": "0.0.1",
+  "description": "A Gulp-TypeScript reporter for TeamCity",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NewFireGroup/gulp-typescript-teamcity.git"
+  },
+  "keywords": [
+    "gulp",
+    "teamcity",
+    "gulpplugin"
+  ],
+  "author": "David Boster <dboster@newfiregroup.com>",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/NewFireGroup/gulp-typescript-teamcity/issues"
+  },
+  "homepage": "https://github.com/NewFireGroup/gulp-typescript-teamcity#gulp-typescript-teamcity",
+  "dependencies": {
+    "gulp": "~3.9.1",
+    "gulp-util": "~3.0.7",
+    "teamcity-service-messages": "^0.1.8",
+    "yargs": "~4.3.2"
+  },
+  "devDependencies": {
+    "gulp-jshint": "^2.0.1",
+    "jshint": "^2.9.2"
+  }
+}
