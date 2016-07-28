@@ -1,6 +1,6 @@
 {
   "name": "gulp-typescript-teamcity",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A Gulp-TypeScript reporter for TeamCity",
   "main": "index.js",
   "scripts": {},
@@ -11,10 +11,11 @@
   "keywords": [
     "gulp",
     "teamcity",
-    "gulpplugin"
+    "gulpplugin",
+    "typescript"
   ],
   "author": "David Boster <dboster@newfiregroup.com>",
-  "license": "BSD-3-Clause",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/NewFireGroup/gulp-typescript-teamcity/issues"
   },
